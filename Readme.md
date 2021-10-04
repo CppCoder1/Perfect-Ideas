@@ -9,7 +9,7 @@
 ## Table About Users
 | user_id | about  | on_vk         | on_fb         | on_tw                | on_sputinik        |
 |---------|--------|---------------|---------------|----------------------|--------------------|
-| 1       | Tester | vk.com/tester | fb.com/tester | twitter.com/max_katx | Error, im a teapot |
+| 1       | Tester | vk.com/tester | fb.com/tester | twitter.com/max_katz | Error, im a teapot |
 
 ## Table of videos
 | user_id | path_to_video                 | name          | about                                               | category            |
