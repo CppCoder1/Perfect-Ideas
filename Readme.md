@@ -32,7 +32,16 @@ when_started - поле с типом int, обозначает время, ко
 
 # На чем мы это реализуем (Backend):
 ## Если на GoLang:
-- Gin Gonic - Web Framework
+- Gin Gonic - Web Framework общего назначения
 - GORM - ORM для MySQL/SQLite или Postgresql
 - Hare - встраиваямая БД на чистом Go где каждая таблица - отдельный JSON-файл
 - FastCache - быстрый кэш в ОЗУ
+
+## Если на Python 3
+- Flask (+Flask-Admin, +Flask-REST) - Web Framework 
+- Peewee ORM - быстрая ORM, работает со могими БД. 
+
+## Если на PHP
+- Fat-Free/Flight PHP - web frameworks
+- Smarty - движок шаблонов
+- RedBean - хорошая ORM
