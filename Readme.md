@@ -34,5 +34,5 @@ when_started - поле с типом int, обозначает время, ко
 ## Если на GoLang:
 - Gin Gonic - Web Framework
 - GORM - ORM для MySQL/SQLite или Postgresql
-- Hare - встраиваямая БД на чистом Go где каждая БД - отдельный JSON-файл
+- Hare - встраиваямая БД на чистом Go где каждая таблица - отдельный JSON-файл
 - FastCache - быстрый кэш в ОЗУ
